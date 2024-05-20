@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import Kart from './Kart'; // Kart bileşenini import edin
 import arkaPlan from './assets/background.png';
 import './App.css';
